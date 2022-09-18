@@ -1,0 +1,9 @@
+first we created index.js
+npm init - in indexjs file
+npm install express - in indexjs file
+ -- server
+npm install ejs
+ --use ejs
+ --path of views
+ --ejs file
+   home file
